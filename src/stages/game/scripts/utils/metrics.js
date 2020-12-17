@@ -1,0 +1,4 @@
+exports.calcPercentage = function(percentage){
+    
+    
+}

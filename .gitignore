@@ -1,0 +1,17 @@
+node_modules/
+dist/
+build
+build.zip
+
+*.savedSearch
+
+*.DS_Store*
+
+public/sounds/compiled*
+
+src/processed/*
+
+.env
+package-lock.json
+*.log
+*.lock

@@ -1,0 +1,302 @@
+[
+    {
+        "id": 1,
+        "day": 1,
+        "name": "Coins",
+        "multiplier": 50,
+        "type": "coins",
+        "toolId": 0,
+        "value": 50,
+        "texture": "images/ui/popup_login_streak/streack_icons_512px/coins_icon.png"
+    },
+    {
+        "id": 2,
+        "day": 2,
+        "name": "Rock",
+        "multiplier": 3,
+        "type": "tool",
+        "toolId": 11,
+        "value": 3,
+        "texture": "images/ui/icons_items_all/tools/rock.png"
+    },
+    {
+        "id": 3,
+        "day": 3,
+        "name": "Brick",
+        "multiplier": 3,
+        "type": "tool",
+        "toolId": 10,
+        "value": 3,
+        "texture": "images/ui/icons_items_all/tools/brick.png"
+    },
+    {
+        "id": 4,
+        "day": 4,
+        "name": "Coins",
+        "multiplier": 55,
+        "type": "coins",
+        "toolId": 0,
+        "value": 55,
+        "texture": "images/ui/popup_login_streak/streack_icons_512px/coins_icon.png"
+    },
+    {
+        "id": 5,
+        "day": 5,
+        "name": "Egg Timer",
+        "multiplier": 1,
+        "type": "tool",
+        "toolId": 28,
+        "value": 1,
+        "texture": "images/ui/icons_items_all/tools/_0002_Egg-Timer.png"
+    },
+    {
+        "id": 6,
+        "day": 6,
+        "name": "Coins",
+        "multiplier": 60,
+        "type": "coins",
+        "toolId": 0,
+        "value": 60,
+        "texture": "images/ui/popup_login_streak/streack_icons_512px/coins_icon.png"
+    },
+    {
+        "id": 7,
+        "day": 7,
+        "name": "Stimpack",
+        "multiplier": 1,
+        "type": "tool",
+        "toolId": 36,
+        "value": 1,
+        "texture": "images/ui/icons_items_all/tools/_0007_Stimpack.png"
+    },
+    {
+        "id": 8,
+        "day": 8,
+        "name": "Coins",
+        "multiplier": 65,
+        "type": "coins",
+        "toolId": 0,
+        "value": 65,
+        "texture": "images/ui/popup_login_streak/streack_icons_512px/coins_icon.png"
+    },
+    {
+        "id": 9,
+        "day": 9,
+        "name": "Fake ID",
+        "multiplier": 1,
+        "type": "tool",
+        "toolId": 29,
+        "value": 1,
+        "texture": "images/ui/icons_items_all/tools/11_fake_id.png"
+    },
+    {
+        "id": 10,
+        "day": 10,
+        "name": "Coins",
+        "multiplier": 70,
+        "type": "coins",
+        "toolId": 0,
+        "value": 70,
+        "texture": "images/ui/popup_login_streak/streack_icons_512px/coins_icon.png"
+    },
+    {
+        "id": 11,
+        "day": 11,
+        "name": "LockPick",
+        "multiplier": 1,
+        "type": "tool",
+        "toolId": 30,
+        "value": 1,
+        "texture": "images/ui/icons_items_all/tools/_0003_LockPick.png"
+    },
+    {
+        "id": 12,
+        "day": 12,
+        "name": "Coins",
+        "multiplier": 75,
+        "type": "coins",
+        "toolId": 0,
+        "value": 75,
+        "texture": "images/ui/popup_login_streak/streack_icons_512px/coins_icon.png"
+    },
+    {
+        "id": 13,
+        "day": 13,
+        "name": "Code Breaker",
+        "multiplier": 1,
+        "type": "tool",
+        "toolId": 35,
+        "value": 1,
+        "texture": "images/ui/icons_items_all/tools/13_codeBreaker.png"
+    },
+    {
+        "id": 14,
+        "day": 14,
+        "name": "Coins",
+        "multiplier": 80,
+        "type": "coins",
+        "toolId": 0,
+        "value": 80,
+        "texture": "images/ui/popup_login_streak/streack_icons_512px/coins_icon.png"
+    },
+    {
+        "id": 15,
+        "day": 15,
+        "name": "Laser Pen",
+        "multiplier": 1,
+        "type": "tool",
+        "toolId": 31,
+        "value": 1,
+        "texture": "images/ui/icons_items_all/tools/_0004_LaserPen.png"
+    },
+    {
+        "id": 16,
+        "day": 16,
+        "name": "Coins",
+        "multiplier": 85,
+        "type": "coins",
+        "toolId": 0,
+        "value": 85,
+        "texture": "images/ui/popup_login_streak/streack_icons_512px/coins_icon.png"
+    },
+    {
+        "id": 17,
+        "day": 17,
+        "name": "Signalblocker",
+        "multiplier": 1,
+        "type": "tool",
+        "toolId": 33,
+        "value": 1,
+        "texture": "images/ui/icons_items_all/tools/_0006_Signal-Blocker.png"
+    },
+    {
+        "id": 18,
+        "day": 18,
+        "name": "Coins",
+        "multiplier": 90,
+        "type": "coins",
+        "toolId": 0,
+        "value": 90,
+        "texture": "images/ui/popup_login_streak/streack_icons_512px/coins_icon.png"
+    },
+    {
+        "id": 19,
+        "day": 19,
+        "name": "Rock",
+        "multiplier": 5,
+        "type": "tool",
+        "toolId": 11,
+        "value": 5,
+        "texture": "images/ui/icons_items_all/tools/rock.png"
+    },
+    {
+        "id": 20,
+        "day": 20,
+        "name": "Coins",
+        "multiplier": 100,
+        "type": "coins",
+        "toolId": 0,
+        "value": 100,
+        "texture": "images/ui/popup_login_streak/streack_icons_512px/coins_icon.png"
+    },
+    {
+        "id": 21,
+        "day": 21,
+        "name": "Lockpick",
+        "multiplier": 1,
+        "type": "tool",
+        "toolId": 30,
+        "value": 1,
+        "texture": "images/ui/icons_items_all/tools/_0003_LockPick.png"
+    },
+    {
+        "id": 22,
+        "day": 22,
+        "name": "Coins",
+        "multiplier": 110,
+        "type": "coins",
+        "toolId": 0,
+        "value": 110,
+        "texture": "images/ui/popup_login_streak/streack_icons_512px/coins_icon.png"
+    },
+    {
+        "id": 23,
+        "day": 23,
+        "name": "CodeBreaker",
+        "multiplier": 1,
+        "type": "tool",
+        "toolId": 35,
+        "value": 1,
+        "texture": "images/ui/icons_items_all/tools/13_codeBreaker.png"
+    },
+    {
+        "id": 24,
+        "day": 24,
+        "name": "Coins",
+        "multiplier": 150,
+        "type": "coins",
+        "toolId": 0,
+        "value": 150,
+        "texture": "images/ui/popup_login_streak/streack_icons_512px/coins_icon.png"
+    },
+    {
+        "id": 25,
+        "day": 25,
+        "name": "Fake ID",
+        "multiplier": 1,
+        "type": "tool",
+        "toolId": 29,
+        "value": 1,
+        "texture": "images/ui/icons_items_all/tools/11_fake_id.png"
+    },
+    {
+        "id": 26,
+        "day": 26,
+        "name": "Coins",
+        "multiplier": 200,
+        "type": "coins",
+        "toolId": 0,
+        "value": 200,
+        "texture": "images/ui/popup_login_streak/streack_icons_512px/coins_icon.png"
+    },
+    {
+        "id": 27,
+        "day": 27,
+        "name": "Signalblocker",
+        "multiplier": 1,
+        "type": "tool",
+        "toolId": 33,
+        "value": 1,
+        "texture": "images/ui/icons_items_all/tools/_0006_Signal-Blocker.png"
+    },
+    {
+        "id": 28,
+        "day": 28,
+        "name": "Coins",
+        "multiplier": 250,
+        "type": "coins",
+        "toolId": 0,
+        "value": 250,
+        "texture": "images/ui/popup_login_streak/streack_icons_512px/coins_icon.png"
+    },
+    {
+        "id": 29,
+        "day": 29,
+        "name": "Dynamite",
+        "multiplier": 1,
+        "type": "tool",
+        "toolId": 34,
+        "value": 1,
+        "texture": "images/ui/icons_items_all/tools/12_dynamite.png"
+    },
+    {
+        "id": 30,
+        "day": 30,
+        "name": "Coins",
+        "multiplier": 300,
+        "type": "coins",
+        "toolId": 0,
+        "value": 300,
+        "texture": "images/ui/popup_login_streak/streack_icons_512px/coins_icon.png"
+    }
+]

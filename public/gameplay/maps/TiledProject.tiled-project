@@ -1,0 +1,18 @@
+{
+    "automappingRulesFile": "",
+    "commands": [
+    ],
+    "extensionsPath": "extensions",
+    "folders": [
+        "1.Storefront",
+        "Shared Elements/SharedCollections",
+        "2.Bakery",
+        "3.Wallmart",
+        "4.TGI_Mondays",
+        "5.Yeezi_Store",
+        "6.Mall",
+        "7.Prideaux",
+        "8.Supreme_Store"
+    ],
+    "objectTypesFile": ""
+}

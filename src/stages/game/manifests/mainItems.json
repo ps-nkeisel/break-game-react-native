@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Premium Lemmon",
+        "texture": "maps/1.Storefront/Assets/level_loot/premiumLemmon.png",
+        "texture_xl": "1_premium_lemons.png",
+        "texture_holding" : "1_PremiumLemmons.png"
+    },
+    {
+        "name": "Gourmet Pastrie",
+        "texture":"maps/2.Bakery/Assets/level loot/bakery_loot3.png",
+        "texture_xl" : "2_gourmet_pastrie.png",
+        "texture_holding" : "2_GourmetPastrie.png"
+    },
+    {
+        "name": "Golden Fish Caviar",
+        "texture":"maps/3.Wallmart/Assets/loot_level/lastItem_caviar.png",
+        "texture_xl":"3_golden_fish_caviar.png",
+        "texture_holding" : "3_GoldenFishCaviar.png"
+    },
+    {
+        "name": "Antique Crystal Glass",
+        "texture":"maps/4.TGI_Mondays/Assets/loot_level/crystalGlass.png",
+        "texture_xl":"4_antique_crystal_glass.png",
+        "texture_holding" : "4_AntiqueCrystalGlass.png"
+    },
+    {
+        "name": "Exclusive Model Shoes",
+        "texture":"maps/5.Yeezi_Store/Assets/loot_level/Tiles_1_2_3_4_5_12.png",
+        "texture_xl":"5_exclusive_model_shoes.png",
+        "texture_holding" : "5_ExclusiveModelShoes.png"
+    },
+    {
+        "name": "Unreleased Berry Computer",
+        "texture":"maps/6.Mall/Assets/loot_level/notebook.png",
+        "texture_xl":"6_unreleased_berry_computer.png",
+        "texture_holding" : "6_UnreleasedBerryComputer.png"
+    },
+    {
+        "name": "Prince Crown",
+        "texture":"maps/7.Prideaux/Assets/loot_crown.png",
+        "texture_xl":"7_prince_crown.png",
+        "texture_holding" : "7_PrinceCrown.png"
+    }
+]

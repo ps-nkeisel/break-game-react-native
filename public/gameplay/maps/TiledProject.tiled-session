@@ -1,0 +1,450 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "8.Supreme_Store/Tiled_files/8.Maximum_level_a.tmx",
+    "expandedProjectPaths": [
+        "3.Wallmart",
+        "Shared Elements/SharedCollections",
+        "7. Prideaux",
+        "6. Mall/Tiled_files",
+        "1.Storefront/JS Export",
+        "5.Yeezi_Store",
+        "1.Storefront",
+        "4.TGI_Mondays/Tiled_files",
+        "6. Mall",
+        "8.Supreme_Store/Tiled_files",
+        "6.Mall",
+        "5.Yeezi_Store/Tiled_files",
+        "3.Wallmart/Tiled_files",
+        "4.TGI_Mondays",
+        "2.Bakery/Tiled_files",
+        "2.McBurguer/Tiled_files",
+        "8.Supreme_Store",
+        "1.Storefront/Tiled_Files",
+        "2.Bakery",
+        "7. Prideaux/Tiled_files",
+        "6.Mall/Tiled_files",
+        "7.Prideaux/Tiled_files",
+        "2.McBurguer",
+        "7.Prideaux"
+    ],
+    "exportAsImage.drawTileGrid": false,
+    "exportAsImage.includeBackgroundColor": false,
+    "exportAsImage.useCurrentScale": true,
+    "exportAsImage.visibleLayersOnly": true,
+    "file.lastUsedOpenFilter": "Todos los archivos (*)",
+    "fileStates": {
+        "1.Storefront/Tiled_Files/1. Store Front.tmx": {
+            "scale": 1,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 607.5,
+                "y": 639.5
+            }
+        },
+        "1.Storefront/Tiled_Files/Furniture.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "1.Storefront/Tiled_Files/food_products.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "1.Storefront/Tiled_Files/lights.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "1.Storefront/Tiled_Files/wall_lights.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "2.Bakery/Tiled_files/2.Bakery.tmx": {
+            "scale": 1,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 959.5,
+                "y": 655.5
+            }
+        },
+        "2.Bakery/Tiled_files/bakery_tiles.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "2.McBurguer/2.McBurger.tmx": {
+            "scale": 0.7324538934426229,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 942.7214547997902,
+                "y": 559.079559363525
+            }
+        },
+        "2.McBurguer/Tiled_files/2.McBurger.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 1104,
+                "y": 472
+            }
+        },
+        "2.McBurguer/Tiled_files/mcburguer_furniture.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "2.McBurguer/Tiled_files/mcburguer_tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "3.Wallmart/Tiled_files/3.Wallmart.tmx": {
+            "scale": 1,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 879.5,
+                "y": 1279.5
+            }
+        },
+        "3.Wallmart/Tiled_files/3.Wallmart_level_a.tmx": {
+            "scale": 1,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 399.5,
+                "y": 479.5
+            }
+        },
+        "3.Wallmart/Tiled_files/Wallmart_level_a.tmx": {
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 530.5,
+                "y": 448
+            }
+        },
+        "3.Wallmart/Tiled_files/wallmart_tiles.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "4.TGI_Mondays/Tiled_files/4.TGIMondays.tmx": {
+            "scale": 1,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 879.5,
+                "y": 1039.5
+            }
+        },
+        "4.TGI_Mondays/Tiled_files/tgi_tiles.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "5.Yeezi_Store/Tiled_files/5.Yeezi_store_floor.tmx": {
+            "scale": 1,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 639.5,
+                "y": 1279.5
+            }
+        },
+        "5.Yeezi_Store/Tiled_files/5.Yeezi_store_level_a.tmx": {
+            "scale": 1,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 559.5,
+                "y": 559.5
+            }
+        },
+        "5.Yeezi_Store/Tiled_files/yeezi_tiles.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "6. Mall/Tiled_files/6.Mall_floor.tmx": {
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1512.5,
+                "y": 838
+            }
+        },
+        "6. Mall/Tiled_files/6.Mall_level_a.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1412.6666666666665,
+                "y": 548
+            }
+        },
+        "6. Mall/Tiled_files/mall_tiles.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "6.Mall/Tiled_files/6.Mall_floor.tmx": {
+            "scale": 1,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 1535.5,
+                "y": 1071.5
+            }
+        },
+        "6.Mall/Tiled_files/6.Mall_level_a.tmx": {
+            "scale": 1,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 1279.5,
+                "y": 799.5
+            }
+        },
+        "6.Mall/Tiled_files/mall_tiles.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "7. Prideaux/Tiled_files/7.Prideaux_floor.tmx": {
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 993.5,
+                "y": 434.5
+            }
+        },
+        "7. Prideaux/Tiled_files/7.Prideaux_level_a.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 730.5,
+                "y": 689
+            }
+        },
+        "7. Prideaux/Tiled_files/7.Prideaux_level_b.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 740.5,
+                "y": 527
+            }
+        },
+        "7. Prideaux/Tiled_files/prideaux_tiles.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "7.Prideaux/Tiled_files/7.Prideaux_floor.tmx": {
+            "scale": 1,
+            "selectedLayer": 14,
+            "viewCenter": {
+                "x": 799.5,
+                "y": 799.5
+            }
+        },
+        "7.Prideaux/Tiled_files/7.Prideaux_level_a.tmx": {
+            "scale": 1,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 639.5,
+                "y": 559.5
+            }
+        },
+        "7.Prideaux/Tiled_files/7.Prideaux_level_b.tmx": {
+            "scale": 1,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 639.5,
+                "y": 559.5
+            }
+        },
+        "7.Prideaux/Tiled_files/prideaux_tiles.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "8.Supreme_Store/Tiled_files/8.Maximum.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1279.5,
+                "y": 959.5
+            }
+        },
+        "8.Supreme_Store/Tiled_files/8.Maximum_level_a.tmx": {
+            "scale": 1,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 644.5,
+                "y": 389
+            }
+        },
+        "8.Supreme_Store/Tiled_files/maximum_tiles.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Characters/MainCharacter/TOOLS/Dynamite Explosion/explosion.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/Art Development/Michael Singer/tileset/1. Store Front.tmx": {
+            "scale": 1.67919921875,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 239.99534748473394,
+                "y": 255.4789182902006
+            }
+        },
+        "D:/Art Development/Michael Singer/tileset/1. Store Front/1. Store Front.tmx": {
+            "scale": 1.67919921875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 212.6013375981389,
+                "y": 254.8833963361442
+            }
+        },
+        "D:/Art Development/Michael Singer/tileset/sin nombre.tmx": {
+            "scale": 0.125,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 4656,
+                "y": 2444
+            }
+        },
+        "Shared Elements/SharedCollections/32.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Shared Elements/SharedCollections/64X96Cars.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Shared Elements/SharedCollections/64x64.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Shared Elements/SharedCollections/96x96Plants.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Shared Elements/SharedCollections/Loot.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Shared Elements/SharedCollections/cars.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Shared Elements/SharedCollections/characters.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Shared Elements/SharedCollections/dangers.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Shared Elements/SharedCollections/general_structures.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Shared Elements/SharedCollections/highlight.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Shared Elements/SharedCollections/light_effects.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Shared Elements/SharedCollections/vegetation.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "test/1..tmx": {
+            "scale": 0.7454861111111111,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 401.08057755006985,
+                "y": 512.4173265020961
+            }
+        }
+    },
+    "frame.defaultDuration": 50,
+    "map.fixedSize": true,
+    "map.height": 25,
+    "map.lastUsedExportFilter": "Archivos de mapa JavaScript (*.js)",
+    "map.lastUsedFormat": "tmx",
+    "map.layerDataFormat": null,
+    "map.orientation": 1,
+    "map.tileHeight": 32,
+    "map.tileWidth": 32,
+    "map.width": 40,
+    "openFiles": [
+        "1.Storefront/Tiled_Files/1. Store Front.tmx",
+        "2.Bakery/Tiled_files/2.Bakery.tmx",
+        "3.Wallmart/Tiled_files/3.Wallmart.tmx",
+        "3.Wallmart/Tiled_files/3.Wallmart_level_a.tmx",
+        "4.TGI_Mondays/Tiled_files/4.TGIMondays.tmx",
+        "5.Yeezi_Store/Tiled_files/5.Yeezi_store_floor.tmx",
+        "5.Yeezi_Store/Tiled_files/5.Yeezi_store_level_a.tmx",
+        "6.Mall/Tiled_files/6.Mall_floor.tmx",
+        "6.Mall/Tiled_files/6.Mall_level_a.tmx",
+        "7.Prideaux/Tiled_files/7.Prideaux_floor.tmx",
+        "7.Prideaux/Tiled_files/7.Prideaux_level_a.tmx",
+        "7.Prideaux/Tiled_files/7.Prideaux_level_b.tmx",
+        "8.Supreme_Store/Tiled_files/8.Maximum.tmx",
+        "8.Supreme_Store/Tiled_files/8.Maximum_level_a.tmx",
+        "8.Supreme_Store/Tiled_files/maximum_tiles.tsx",
+        "Shared Elements/SharedCollections/32.tsx",
+        "1.Storefront/Tiled_Files/Furniture.tsx",
+        "4.TGI_Mondays/Tiled_files/tgi_tiles.tsx",
+        "Shared Elements/SharedCollections/cars.tsx",
+        "Shared Elements/SharedCollections/Loot.tsx",
+        "5.Yeezi_Store/Tiled_files/yeezi_tiles.tsx",
+        "Shared Elements/SharedCollections/characters.tsx",
+        "7.Prideaux/Tiled_files/prideaux_tiles.tsx",
+        "3.Wallmart/Tiled_files/wallmart_tiles.tsx",
+        "6.Mall/Tiled_files/mall_tiles.tsx",
+        "Shared Elements/SharedCollections/highlight.tsx",
+        "2.Bakery/Tiled_files/bakery_tiles.tsx"
+    ],
+    "project": "TiledProject.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "1.Storefront/Tiled_Files/1. Store Front.tmx",
+        "2.Bakery/Tiled_files/2.Bakery.tmx",
+        "3.Wallmart/Tiled_files/3.Wallmart.tmx",
+        "3.Wallmart/Tiled_files/3.Wallmart_level_a.tmx",
+        "4.TGI_Mondays/Tiled_files/4.TGIMondays.tmx",
+        "5.Yeezi_Store/Tiled_files/5.Yeezi_store_floor.tmx",
+        "5.Yeezi_Store/Tiled_files/5.Yeezi_store_level_a.tmx",
+        "6.Mall/Tiled_files/6.Mall_floor.tmx",
+        "6.Mall/Tiled_files/6.Mall_level_a.tmx",
+        "7.Prideaux/Tiled_files/7.Prideaux_floor.tmx",
+        "7.Prideaux/Tiled_files/7.Prideaux_level_a.tmx",
+        "7.Prideaux/Tiled_files/7.Prideaux_level_b.tmx"
+    ],
+    "tileset.embedInMap": false,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.margin": 0,
+    "tileset.spacing": 0,
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    },
+    "tileset.transparentColor": "#ff00ff",
+    "tileset.type": 1,
+    "tileset.useTransparentColor": false
+}

@@ -1,0 +1,384 @@
+[
+    {
+        "id": 1,
+        "name": "Petty Pocket",
+        "type":"Backpack",
+        "description": "",
+        "capacity": 3,
+        "price": 0,
+        "texture": "_0012_Petty-Pocket.png",
+        "texture_shop": "images/ui/icons_items_all/backpacks/_0011_PettyPocket.png"
+    },
+    {
+        "id": 2,
+        "name": "Thief’s Satchel",
+        "type":"Backpack",
+        "description": "",
+        "capacity": 4,
+        "price": 30,
+        "texture": "_0013_Thief's-Satchel.png",
+        "texture_shop": "images/ui/icons_items_all/backpacks/_0012_Thiefs-Satchel.png"
+    },
+    {
+        "id": 3,
+        "name": "Giant Sack",
+        "type":"Backpack",
+        "price": 100,
+        "capacity": 5,
+        "description": "",
+        "texture": "_0014_Giant-Sack.png",
+        "texture_shop": "images/ui/icons_items_all/backpacks/_0013_Giant-Sack.png"
+    },
+    {
+        "id": 4,
+        "name": "Classic Backpack",
+        "type":"Backpack",
+        "price": 150,
+        "capacity": 7,
+        "description": "",
+        "texture": "_0015_Classic-Backpack.png",
+        "texture_shop": "images/ui/icons_items_all/backpacks/_0014_Classic-Backpack.png"
+    },
+    {
+        "id": 5,
+        "name": "Padded Backpack",
+        "type":"Backpack",
+        "price": 200,
+        "capacity": 8,
+        "description": "",
+        "texture": "_0016_Padded-Backpack.png",
+        "texture_shop": "images/ui/icons_items_all/backpacks/_0015_Padded-Backpack.png"
+    },
+    {
+        "id": 6,
+        "name": "Military Backpack",
+        "type":"Backpack",
+        "price": 250,
+        "capacity": 9,
+        "description": "",
+        "texture": "_0017_Military-Backpack.png",
+        "texture_shop": "images/ui/icons_items_all/backpacks/_0016_Military-Backpack.png"
+    },
+    {
+        "id": 7,
+        "name": "Suitcase",
+        "type":"Backpack",
+        "price": 300,
+        "capacity": 12,
+        "description": "",
+        "texture": "_0018_Suitcase.png",
+        "texture_shop": "images/ui/icons_items_all/backpacks/_0017_Suitcase.png"
+    },
+    {
+        "id": 8,
+        "name": "Getaway Car",
+        "type":"Backpack",
+        "price": 350,
+        "capacity": 16,
+        "description": "",
+        "texture": "",
+        "texture_shop": "images/ui/icons_items_all/backpacks/_0018_Getaway-Car.png"
+    },
+    {
+        "id": 9,
+        "name": "Loading Truck",
+        "type":"Backpack",
+        "price": 400,
+        "capacity": 20,
+        "description": "",
+        "texture": "",
+        "texture_shop": "images/ui/icons_items_all/backpacks/_0019_Loading-Truck.png"
+    },
+    {
+        "id": 10,
+        "name": "brick",
+        "description": "It can be useful to break windows",
+        "tutorial_image" : "2_brick.gif",
+        "usable_description": "1 time use",
+        "tutorial_description":"Lets throw it on some windows!",
+        "type":"Tool",
+        "stackable": true,
+        "toolType": "throwable",
+        "price": 50,
+        "texture": "maps/tools/_0001_Brick.png",
+        "texture_shop": "images/ui/icons_items_all/tools/brick.png"
+    },
+    {
+        "id": 11,
+        "name": "rock",
+        "tutorial_image" : "1_rock.gif",
+        "description": "It's just rock!",
+        "usable_description": "1 time use",
+        "tutorial_description":"Throw and draw some attention with it",
+        "type":"Tool",
+        "stackable": true,
+        "price": 30,
+        "toolType": "throwable",
+        "texture": "maps/tools/_0000_Rock.png",
+        "texture_shop":"images/ui/icons_items_all/tools/rock.png"
+    },
+    {
+        "id": 12,
+        "name": "Ski Mask",
+        "type":"Hat",
+        "price": 10,
+        "texture": "_0000_SkiMask.png",
+        "texture_shop": "images/ui/icons_items_all/hat/_0020_Ski-Hat.png"
+    },
+    {
+        "id": 13,
+        "name": "Benie",
+        "type":"Hat",
+        "price": 20,
+        "texture": "_0001_Beanie.png",
+        "texture_shop": "images/ui/icons_items_all/hat/_0022_Benie.png"
+    },
+    {
+        "id": 14,
+        "name": "Miners Helmet",
+        "type":"Hat",
+        "price": 30,
+        "texture": "_0002_MinersHelmet.png",
+        "texture_shop": "images/ui/icons_items_all/hat/_0023_Miners-Helmet.png"
+    },
+    {
+        "id": 15,
+        "name": "Fez",
+        "type":"Hat",
+        "price": 50,
+        "texture": "_0003_Fez.png",
+        "texture_shop": "images/ui/icons_items_all/hat/_0024_Fez.png"
+    },
+    {
+        "id": 16,
+        "name": "Top Hat",
+        "type":"Hat",
+        "price": 100,
+        "texture": "_0004_TopHat.png",
+        "texture_shop": "images/ui/icons_items_all/hat/_0025_Top-Hat.png"
+    },
+    {
+        "id": 17,
+        "name": "Stetzen",
+        "type":"Hat",
+        "price": 150,
+        "description": "X2 Movement Speed",
+        "bonus": [{
+            "name": "SPEED_MULTIPLIER",
+            "value": 0.7
+        }],
+        "texture": "_0005_Stetzen.png",
+        "texture_shop": "images/ui/icons_items_all/hat/_0026_Stetzen.png"
+    },
+    {
+        "id": 18,
+        "name": "Mechanics Mask",
+        "type":"Hat",
+        "price": 200,
+        "description": "CCTV Ineffective",
+        "bonus": [{
+            "name": "CCTV_INEFFECTIVE",
+            "value": true
+        }],
+        "texture": "_0006_Mechanic-Mask.png",
+        "texture_shop": "images/ui/icons_items_all/hat/_0027_Mechanics-Mask.png"
+    },
+    {
+        "id": 19,
+        "name": "Jesters Hat",
+        "type":"Hat",
+        "price": 250,
+        "texture": "_0007_Jester-Hat.png",
+        "texture_shop": "images/ui/icons_items_all/hat/_0028_Jesters-Hat.png"
+    },
+    {
+        "id": 20,
+        "name": "Wizard Hat",
+        "type":"Hat",
+        "description": "X1.5 Looting Speed",
+        "price": 300,
+        "texture": "_0008_Wizard.png",
+        "texture_shop": "images/ui/icons_items_all/hat/_0029_Wizard-hat.png"
+    },
+    {
+        "id": 21,
+        "name": "Vikings Helmet",
+        "type":"Hat",
+        "price": 400,
+        "texture": "_0009_Viking.png",
+        "texture_shop": "images/ui/icons_items_all/hat/_0030_Vikings-Helmet.png"
+    },
+    {
+        "id": 22,
+        "name": "Devils Horns",
+        "type":"Hat",
+        "price": 500,
+        "texture": "_0010_DevilsHorns.png",
+        "texture_shop": "images/ui/icons_items_all/hat/_0031_DevilsHorns.png"
+    },
+    {
+        "id": 23,
+        "name": "Thief's Crown",
+        "type":"Hat",
+        "price": 600,
+        "texture": "_0011_ThiefCrown.png",
+        "texture_shop": "images/ui/icons_items_all/hat/_0032_Thief's-Crown.png"
+    },
+    {
+        "id": 24,
+        "name": "Bowler Hat",
+        "type":"Hat",
+        "price": 800,
+        "description": "X1.2 Movement Speed",
+        "bonus": [{
+            "name": "SPEED_MULTIPLIER",
+            "value": 0.6
+        }],
+        "texture": "0012_bowlerhat.png",
+        "texture_shop": "images/ui/icons_items_all/hat/_0021_Bowlerhat.png"
+    },
+    {
+        "id": 25,
+        "name": "Common Car",
+        "type":"EscapeCar",
+        "price": 0,
+        "texture": "maps/Shared Elements/carEntrance/robberEntranceAnimation",
+        "texture_shop": ""
+    },
+    {
+        "id": 26,
+        "name": "Deluxe Car",
+        "type":"EscapeCar",
+        "price": 0,
+        "texture": "maps/Shared Elements/carEntrance/deluxeCar",
+        "texture_shop": ""
+    },
+    {
+        "id": 27,
+        "name": "Load Truck",
+        "type":"EscapeCar",
+        "price": 0,
+        "texture": "maps/Shared Elements/carEntrance/loadTruck",
+        "texture_shop": ""
+    },
+    {
+        "id": 28,
+        "name": "eggtimer",
+        "description": "Egg Timer to call guard's attention",
+        "usable_description": "1 time use",
+        "tutorial_image" : "3_eggTimer.gif",
+        "tutorial_description":"Time to draw guards attention when thrown",
+        "type":"Tool",
+        "stackable": true,
+        "toolType": "throwable",
+        "price": 30,
+        "texture": "maps/tools/_0002_Egg-Timer.png",
+        "texture_shop": "images/ui/icons_items_all/tools/_0002_Egg-Timer.png"
+    },
+    {
+        "id": 29,
+        "name": "fakeid",
+        "description": "Fake ID to confuse the guards",
+        "tutorial_image" : "7_fakeID.gif",
+        "usable_description": "1 round use",
+        "tutorial_description":"With a fake id no one will recognize you as a thief.",
+        "oneRound": true,
+        "type":"Tool",
+        "price": 30,
+        "toolType": "passive",
+        "texture": "maps/tools/11_fake_id.png",
+        "texture_shop":"images/ui/icons_items_all/tools/11_fake_id.png"
+    },
+    {
+        "id": 30,
+        "name": "lockpick",
+        "oneRound":true,
+        "description": "Pick simple locks with this",
+        "usable_description": "1 round use",
+        "tutorial_description":"Picking locks will open doors without making noise.",
+        "tutorial_image" : "4_lockPick.gif",
+        "type":"Tool",
+        "price": 40,
+        "toolType": "target",
+        "texture": "maps/tools/_0003_LockPick.png",
+        "texture_shop":"images/ui/icons_items_all/tools/_0003_LockPick.png"
+    },
+    {
+        "id": 31,
+        "name": "laserpen",
+        "oneRound":true,
+        "description": "Break windows silently",
+        "usable_description": "1 round use",
+        "tutorial_description":"Try to get near a glass and break it pointing your laser to it.",
+        "tutorial_image" : "5_laserPen.gif",
+        "type":"Tool",
+        "price": 200,
+        "toolType": "target",
+        "texture": "maps/tools/_0004_LaserPen.png",
+        "texture_shop":"images/ui/icons_items_all/tools/_0004_LaserPen.png"
+    },
+    {
+        "id": 33,
+        "name": "signalblocker",
+        "tutorial_image" : "8_signalBlocker.gif",
+
+        "oneRound":true,
+        "description": "Disable CCTVs",
+        "usable_description": "1 round use",
+        "tutorial_description":"Blocks communications in the environment.",
+        "type":"Tool",
+        "price": 300,
+        "toolType": "passive",
+        "texture": "maps/tools/_0006_Signal-Blocker.png",
+        "texture_shop":"images/ui/icons_items_all/tools/_0006_Signal-Blocker.png"
+    },
+    {
+        "id": 34,
+        "name": "dynamite",
+        "description": "Explodes safe room's doors!",
+        "tutorial_image" : "10_dynamite.gif",
+        "usable_description": "1 time use",
+        "tutorial_description":"Explode safe doors making a huge noise.",
+        "type":"Tool",
+        "stackable": true,
+        "price": 400,
+        "toolType": "target",
+        "texture": "maps/tools/12_dynamite.png",
+        "texture_shop":"images/ui/icons_items_all/tools/12_dynamite.png"
+    },
+    {
+        "id": 35,
+        "name": "codebreaker",
+        "description": "Breaks safe room's doors silently",
+        "tutorial_image" : "11_codeBreaker.gif",
+        "usable_description": "1 round use",
+        "tutorial_description":"Open safe rooms silently.",
+        "type":"Tool",
+        "oneRound":true,
+        "price": 30,
+        "toolType": "target",
+        "texture": "maps/tools/13_codeBreaker.png",
+        "texture_shop":"images/ui/icons_items_all/tools/13_codeBreaker.png"
+    },
+    {
+        "id": 36,
+        "name": "stimpack",
+        "description": "Boost speed at 2x",
+        "usable_description": "1 round use",
+        "tutorial_description":"Boost speed when needed.",
+        "type":"Tool",
+        "oneRound":true,
+        "price": 30,
+        "toolType": "self",
+        "texture": "maps/tools/_0007_Stimpack.png",
+        "texture_shop":"images/ui/icons_items_all/tools/_0007_Stimpack.png"
+    },
+    {
+        "id": 37,
+        "name": "1000 free coins!",
+        "description": "Take a break and archieve your free coins!",
+        "usable_description": "",
+        "type":"freecoins",
+        "texture_shop":"images/ui/icons_items_all/tools/free_coins.png"
+    }
+]
